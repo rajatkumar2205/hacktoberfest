@@ -24,7 +24,7 @@ youtube: <Your YouTube profile>
 twitter: https://twitter.com/starhawke_rajat
 linkedin: <Your LinkedIn profile>
 instagram: https://www.instagram.com/starhawk_rajat/
-pinterest: <Your Pinterest profile>
+pinterest: https://in.pinterest.com/rajatkumar17a1/
 stackoverflow: <Your StackOverflow profile>
 
 # Optional
